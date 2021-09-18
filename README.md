@@ -1,4 +1,4 @@
-# Infer-Windows-Setup
+# Infer Windows Setup
 This guide will walk you through the steps to install `facebook/infer` on Windows using Docker
 
 ### 1. Prerequisites
